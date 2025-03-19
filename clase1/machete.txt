@@ -1,0 +1,2 @@
+1- cree este documento que no sirve
+2- lo agrego al archivo .gitignore para que no lo suba al repositorio
